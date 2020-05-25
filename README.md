@@ -1,5 +1,5 @@
 ## Description
-Enjoy! This is a simple 4x4 grid memory game memory that was created using javascript, html, and css. 
+Enjoy! This is a grid memory game memory that was created using javascript, html, and css. 
 
 ## Rules and Game Components
 **Winning**: Successfully match all cards in the quickest time possible and with the least amount of errors (mis-matches).  
